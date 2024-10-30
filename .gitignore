@@ -7,3 +7,6 @@ hello_world/
 # python cache
 *__pycache__*
 
+# system cache
+.idea
+.gitignore
